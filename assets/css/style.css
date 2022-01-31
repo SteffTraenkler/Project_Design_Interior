@@ -5,6 +5,7 @@ Farbe: #2e2e2e / #fff / #000 / #1d2c2f */
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 h1,h2,h3{
     font-family: 'Lora', serif;
